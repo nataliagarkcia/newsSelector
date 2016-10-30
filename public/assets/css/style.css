@@ -1,0 +1,51 @@
+#header{
+	text-align: center;
+	font-family: 'Cutive Mono', monospace;
+	font-size: 60px;
+	margin-bottom: 1%;
+	background-color: #99908b;
+}
+
+#mainDiv{
+	margin-left: 10%;
+	margin-bottom: 10%;
+}
+
+#saveIt, #throw{
+	background-color: white;
+	border: solid black 2px;
+	padding: 5px 20px 5px 20px;
+	margin:20px 0  0 30%;
+}
+
+#footer{
+	text-align: center;
+	font-family: 'Cutive Mono', monospace;
+	font-size: 15px;
+	padding: 20px 0 20px 0;
+	margin-top: 5%;
+	background-color: #99908b;
+
+}
+
+#articles{
+	background-color: #dddddd;
+	height: 300px;
+	margin: 0.5% 0.5% 0 0.5%;
+	padding: 5% 8% 0 5%;
+	overflow: scroll;
+
+}
+
+#getIt{
+	background-color: #99908b;
+	color:white;
+	padding: 5px 30px 5px 30px;
+	margin:20px 0  0 40%;
+}
+
+ button#getIt:hover{
+	background-color: black;
+	color:white;
+
+}
